@@ -1,2 +1,2 @@
 # Infinity Scroll
-yup the name is real .
+yep the name is real .
